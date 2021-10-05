@@ -6,11 +6,11 @@ Termux custom script for zshrc , bashrc and welcome page
  (open Termux ,copy all command given below ) 
 ```
 pkg install git
-git clone https://github.com/keralahacker/termux3.0  
-cd termux3.0 
+https://github.com/an0n7-ce/anonyos.git
+cd anonyos
 chmod +x install.sh 
 ./install.sh
-```
+
 
 
 
