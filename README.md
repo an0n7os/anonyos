@@ -10,6 +10,7 @@ https://github.com/an0n7-ce/anonyos.git
 cd anonyos
 chmod +x install.sh 
 ./install.sh
+,,,,
 
 
 
