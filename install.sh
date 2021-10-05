@@ -1,8 +1,8 @@
 ##########################################
 ##########################################
-### https://github.com/keralahacker/termux3.0      ###
+### https://github.com/an0n7-ce/anonyos.git    ###
 ###                                                                                      ###
-###                  https://keralahacker.github.io               ###
+###                   https://github.com/an0n7-ce/anonyos.git             ###
 ###                                                                                      ###
 ##########################################
 ##########################################
@@ -46,9 +46,9 @@ echo "   " >> /data/data/com.termux/files/usr/etc/motd
 echo "  zsh
                 figlet see you | pv -qL 100
                 echo "......................................!" | pv -qL 100
-                echo "hack_with_vyshu" | pv -qL 15
+                echo "anony0s" | pv -qL 15
                 exit
-                echo "hack_with_vyshu" | pv -qL 500  " >> .bashrc
+                echo "aswii" | pv -qL 500  " >> .bashrc
 ## echoing .zshrc file
 echo "
 sleep 3
