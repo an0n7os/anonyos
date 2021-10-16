@@ -55,7 +55,7 @@ sleep 3
 neofetch | pv -qL 500
 sleep 4
 clear
-toilet -f smblock --filter border:metal 'Termux 3.0v'
+toilet -f smblock --filter border:metal 'An0n7os 0.1'
 PROMPT=$'%F{%(#.blue.green)}👽[root]-[%B%F{reset}%b%F{%(#.blue.green)}㉿]\n└─%B%(#.%F{red}#.%F{blue}$)%b%F{reset} '
     RPROMPT=$'%(?.. %? %F{red}%B⨯%b%F{reset})%(1j. %j %F{yellow}%B⚙%b%F{reset}.)'  " >> .zshrc
 sleep 2
